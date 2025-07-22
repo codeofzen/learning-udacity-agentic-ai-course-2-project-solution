@@ -6,7 +6,7 @@ This repository contains the solutions for the Udacity AI Agents Nanodegree cour
 
 ### Solution Code
 
-See folder: _./solutions/phase_1_
+See folder: [./solutions/phase_1](solutions/phase_1/)
 
 ### Solution Screenshots
 
@@ -40,4 +40,14 @@ See folder: _./solutions/phase_1_
 
 ## Phase 2 - Implementing the Agentic Workflow
 
-TODO
+### Solution Code
+
+See folder: [./solutions/phase_2](solutions/phase_2/)
+
+### Solution Output
+
+-   [generated_final_result.txt](solutions/phase_2/generated_final_result.txt)
+
+### Reflections
+
+-   [reflection.md](solutions/phase_2/reflection.md)

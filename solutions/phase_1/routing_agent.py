@@ -60,17 +60,17 @@ routing_agent.agents = agents
 input_texas = "Tell me about the history of Rome, Texas"
 print("====================================")
 print("Input: ", input_texas)
-print(f"Answer: {routing_agent.respond(input_texas)}")
+print(f"Answer: {routing_agent.route_to_agent(input_texas)}")
 print("====================================\n")
 
 print("====================================")
 input_europe = "Tell me about the history of Rome, Italy"
 print("Input: ", input_europe)
-print(f"Answer: {routing_agent.respond(input_europe)}")
+print(f"Answer: {routing_agent.route_to_agent(input_europe)}")
 print("====================================\n")
 
 print("====================================")
 input_math = "One story takes 2 days, and there are 20 stories"
 print("Input: ", input_math)
-print(f"Answer: {routing_agent.respond(input_math)}")
+print(f"Answer: {routing_agent.route_to_agent(input_math)}")
 print("====================================\n")
